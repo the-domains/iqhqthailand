@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iqhqthailand]]></title>
+        <description><![CDATA[iqhqthailand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 10:18:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>IQHQ is starting on JUNE 4th, 2016. Get a group together and sign up for the first course soon. Spaces are limited, so get in soon.</p>]]></description>
+            <link>undefinediqhq-is-starting-on-june-4th-2016-get-a-group-together-and/index.html</link>
+            <guid isPermaLink="false">5328baa4-5008-485b-9f17-06283564111e</guid>
+            <pubDate>Fri, 13 May 2016 10:18:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
